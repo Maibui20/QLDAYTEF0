@@ -10,7 +10,7 @@ $`laufzeit = duration`
 
 $`moral = credit_history`                                        
  0 :1111111111111111111111111qweqweasdasd11111111111     
- 1 : critical account/other credits elsewhere   
+ 1 : 1111111
  2 : no credits taken/all credits paid back duly
  3 : existing credits paid back duly till now   
  4 : 786463545768756487  
