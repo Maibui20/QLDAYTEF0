@@ -13,7 +13,7 @@ $`moral = credit_history`
  1 : 1111111
  2 : no credits taken/all credits paid back duly
  3 : existing credits paid back duly till now   
- 4 : 786463545768756487  
+ 4 : all credits at this bank paid back duly    
 
 $`verw = purpose`
                         
@@ -23,9 +23,9 @@ $`verw = purpose`
  3 : furniture/equipment
  4 : radio/television   
  5 : domestic appliances
- 6 : 8978687574763654          
+ 6 : repairs            
  7 : education          
- 8 : 9409389437985         
+ 8 : vacation           
  9 : retraining         
  10 : business          
 
